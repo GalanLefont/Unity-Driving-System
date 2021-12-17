@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d136cbf807e976e469edb12914fc96c9
+  - enabled: 1
+    path: Assets/Scenes/Fumonya Race Track.unity
+    guid: 29352cfc70ac81f4da5a00ff55d21034
+  - enabled: 1
+    path: Assets/Scenes/Monte Malo.unity
+    guid: a15add1b0fd5b314eb12e5d770007e57
+  m_configObjects: {}
